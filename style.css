@@ -1,0 +1,22 @@
+#background {
+  height: 1000px;
+  width: 1500px;
+  background-image: linear-gradient(rgb(0, 242, 255), white);
+  margin: 0px;
+}
+body {
+  margin: 0px;
+  
+}
+#name {
+    color:white;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+}
+#desc {
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
