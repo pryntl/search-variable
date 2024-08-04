@@ -1,9 +1,13 @@
 #background {
-  height: 1000px;
-  width: 1500px;
+  height: 700px;
+  width: 700px;
+  border: 5px solid rgb(66, 96, 184);
+  position: absolute;
+  left: 30%;
   background-image: linear-gradient(rgb(0, 242, 255), white);
-  margin: 0px;
+  border-radius: 10px;
 }
+
 body {
   margin: 0px;
   
@@ -19,4 +23,7 @@ body {
     font-size: 50px;
     display: flex;
     justify-content: center;
+    position: absolute;
+    top: 30%;
+    text-align: center;
 }
